@@ -3,7 +3,7 @@
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffirefly3823&count_bg=%230088CC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
 
-<!--
+
 
 ### Trophies 🏆
 
@@ -18,7 +18,7 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=firefly3823&theme=dracula)
 
---!>
+
 ### Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firefly3823&show_icons=true&title_color=0088CC&icon_color=0088CC&ring=0088CC&fire=e25822&include_all_commits=true&theme=dracula&cache_seconds=86400&count_private=true&layout=compact&langs_count=10)
 
