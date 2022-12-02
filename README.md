@@ -4,7 +4,7 @@
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffirefly3823&count_bg=%230088CC&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
 
 
-
+<!--
 ### Trophies 🏆
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=firefly3823&theme=dracula)
@@ -24,7 +24,7 @@
 
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=firefly3823&title_color=0088CC&icon_color=0088CC&theme=dracula&layout=compact)
-
+-->
 ## 📊 Stats
 
 ![Metrics](https://github.com/firefly3823/firefly3823/raw/main/metrics.svg)
