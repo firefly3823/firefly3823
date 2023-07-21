@@ -31,6 +31,10 @@
 
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=firefly3823&theme=dracula)
+
+
+
+![Spotify](https://stevin-spotify-readme.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true)
 <!--
 ### Listening to 🎶
 
