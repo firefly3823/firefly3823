@@ -30,13 +30,13 @@
 ![Metrics](https://github.com/firefly3823/firefly3823/raw/main/metrics.svg)
 
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=firefly3823&theme=dracula)
 
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=firefly3823&title_color=0088CC&icon_color=0088CC&theme=dracula&layout=compact)
 
 
 <!--
 ### Listening to 🎶
-
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=firefly3823&theme=dracula)
 ![Spotify](https://stevin-spotify-readme.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true)
 -->
