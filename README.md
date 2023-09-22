@@ -31,7 +31,7 @@
 
 
 
-
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=firefly3823&custom_title=Activity+Graph&theme=dracula)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=firefly3823&title_color=0088CC&icon_color=0088CC&theme=dracula&layout=compact)
 
 
