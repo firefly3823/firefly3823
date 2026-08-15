@@ -1,15 +1,19 @@
 name: Metrics
 on:
-  schedule:
-    - cron: "0 * * * *"
-  push: {branches: ["main"]}
   workflow_dispatch:
+  schedule:
+    # Every Monday at 06:00 UTC
+    - cron: "0 6 * * 1"
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/metrics.yml"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - name: Metrics
-        uses: lowlighter/metrics@master
+        uses: AjmalShajahan/metrics@custom
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
